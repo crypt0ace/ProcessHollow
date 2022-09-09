@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Process-Hollowing\bin\Release\Process-Hollowing.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Process-Hollowing\bin\Release\Process-Hollowing.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Process-Hollowing\bin\Release\Process-Hollowing.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Process-Hollowing\obj\Release\Process-Hollowing.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Process-Hollowing\obj\Release\Process-Hollowing.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Process-Hollowing\obj\Release\Process-Hollowing.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Process-Hollowing\obj\Release\Process-Hollowing.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\Process-Hollowing\obj\Release\Process-Hollowing.pdb
